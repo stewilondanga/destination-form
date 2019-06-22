@@ -73,15 +73,13 @@ input {
   z-index: 1002;
 }
 
-/*input{
-
+input {
   background: none;
   border: none;
   border-bottom: 2px black solid;
-
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
