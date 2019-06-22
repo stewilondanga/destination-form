@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*var hey = 0;
-var hello = 0;
+var hey = 0;
+/*var hello = 0;
 var count = 0;
 var mymap = L.map('main');
 var mapboxAccessToken = 'pk.eyJ1IjoidGhlbW0yMyIsImEiOiJjamo2cm9pc3UyYWY0M3FvNGdvcXZodTNmIn0.slOt7V8CrTaUbhtt3Ecr6Q';
