@@ -65,14 +65,15 @@ input {
   z-index: 1002;
 }
 
-/*#line{
-  width:360px;
-  height:15px;
-  margin:auto;
-  background-color:grey;
-  z-index:1002;
+#line {
+  width: 360px;
+  height: 15px;
+  margin: auto;
+  background-color: grey;
+  z-index: 1002;
 }
-input{
+
+/*input{
 
   background: none;
   border: none;
