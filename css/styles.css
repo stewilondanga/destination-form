@@ -18,17 +18,18 @@
   height: 1.5em;
 }
 
-/*#overlay-content{
+#overlay-content {
   width: 500px;
   height: 80px;
   background: skyblue;
   font-size: 30px;
   color: #f1f1f1;
-  z-index:1002;
+  z-index: 1002;
   position: absolute;
   opacity: 1;
 }
-#map-form{
+
+/*#map-form{
    width: 450px;
   height: 550px;
   background-color: Sienna;
