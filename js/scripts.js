@@ -11,7 +11,7 @@ var hey = 0;
 var hello = 0;
 var count = 0;
 var mymap = L.map('main');
-/*var mapboxAccessToken = 'pk.eyJ1IjoidGhlbW0yMyIsImEiOiJjamo2cm9pc3UyYWY0M3FvNGdvcXZodTNmIn0.slOt7V8CrTaUbhtt3Ecr6Q';
+var mapboxAccessToken = 'pk.eyJ1IjoidGhlbW0yMyIsImEiOiJjamo2cm9pc3UyYWY0M3FvNGdvcXZodTNmIn0.slOt7V8CrTaUbhtt3Ecr6Q';
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + mapboxAccessToken, {
   id: 'mapbox.streets',
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
