@@ -30,9 +30,9 @@ function scroll() {
 
   }, 2000);
 }
-/*scroll();
+scroll();
 // mymap.setView([0, 100], 4);
-$.fn.center = function () {
+/*$.fn.center = function () {
   this.css("position","absolute");
   this.css("top", Math.max(0, (
     ($(window).height() - $(this).outerHeight()) / 2) +
