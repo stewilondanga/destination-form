@@ -56,15 +56,16 @@ input {
   margin: auto;
 }
 
-/*#circle{
-  width:60px;
-  height:60px;
-  margin:auto;
-  border-radius:100%;
-  background-color:grey;
-  z-index:1002;
+#circle {
+  width: 60px;
+  height: 60px;
+  margin: auto;
+  border-radius: 100%;
+  background-color: grey;
+  z-index: 1002;
 }
-#line{
+
+/*#line{
   width:360px;
   height:15px;
   margin:auto;
