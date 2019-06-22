@@ -34,12 +34,13 @@
   height: 550px;
   background-color: Sienna;
   /*   box-shadow: 7px 7px darkkhaki, 12px 12px khaki, 17px 17px darkkhaki; */
-  /*  z-index:1002;
+  z-index: 1002;
   position: absolute;
-  text-align:center;
+  text-align: center;
   opacity: 1;
 }
-form{
+
+/*form{
  margin-left:15%;
   margin-top:-2%;
   width:70%;
