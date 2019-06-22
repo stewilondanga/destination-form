@@ -17,20 +17,20 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token='
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
 }).addTo(mymap);
 
-/*function scroll(){
-  setInterval(function infinite(){
+function scroll() {
+  setInterval(function infinite() {
     mymap.setView([hello, hey], 4);
-    hey+=100;
+    hey += 100;
     count++;
-    if(count%2 == 0){
-           hello = Math.random()*50;
-       }else{
-             hello = Math.random()*-50;
-       }
+    if (count % 2 == 0) {
+      hello = Math.random() * 50;
+    } else {
+      hello = Math.random() * -50;
+    }
 
-  },2000);
+  }, 2000);
 }
-scroll();
+/*scroll();
 // mymap.setView([0, 100], 4);
 $.fn.center = function () {
   this.css("position","absolute");
